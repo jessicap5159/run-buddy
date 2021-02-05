@@ -178,8 +178,8 @@ section {
 }
 
 .intro p {
-    /* add this alongside your other declarations */
     margin: 0 auto;
+    text-align: center;
 }
 
 .steps {
